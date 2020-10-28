@@ -1,0 +1,2 @@
+# djangopracts
+django para aprendizaje
